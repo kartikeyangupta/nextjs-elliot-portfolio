@@ -1,5 +1,6 @@
 ## Application Link
-https://elliot-alderson-93ftsed9u-kartikeyangupta.vercel.app/
+Webpage : https://elliot-alderson-93ftsed9u-kartikeyangupta.vercel.app/
+Youtube Tutorial : https://www.youtube.com/watch?v=W5Vprhtz7sc
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
